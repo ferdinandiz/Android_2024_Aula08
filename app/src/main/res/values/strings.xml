@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula 08 - Fragments e Sensores</string>
+    <string name="agitar">Agite para trocar de cor</string>
+    <string name="botao_voltar">Botão Voltar</string>
+    <string name="sensor">Botão para o sensor</string>
+</resources>
